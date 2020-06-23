@@ -1,4 +1,4 @@
 # Memory-pair-game
 Memory pair-game using Javascript.
 
-# Demo: wizardiq.github.io/Friends-App/
+Demo: <a href="https://wizardiq.github.io/Memory-pair-game/" target="_blank">Memory Game Project</a>
